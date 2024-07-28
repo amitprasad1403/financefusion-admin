@@ -57,5 +57,9 @@ Finance Fusion is a comprehensive financial management application that helps us
 * JWT for authentication
 * Nodemailer for sending emails
 
+## App preview
+
+![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/Screenshot 2024-07-28 234325.png)
+
 
  
